@@ -1,0 +1,5 @@
+Thread Safe Singleton
+    - synchronized method có thể gây ra hiệu suất kém khi có nhiều luồng cùng thời điểm muốn truy cập vào singleton.
+    -có thể tạo ra overhead không cần thiết khi không có nhiều luồng cùng thời điểm muốn truy cập vào singleton.
+Double-Check Locking Singleton
+    - Complex

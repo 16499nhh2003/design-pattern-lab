@@ -1,0 +1,16 @@
+D:\Semer6\Design Pattern\home\week2\ex2\demo2\bin\Debug\net6.0-windows\demo2.exe
+D:\Semer6\Design Pattern\home\week2\ex2\demo2\bin\Debug\net6.0-windows\demo2.deps.json
+D:\Semer6\Design Pattern\home\week2\ex2\demo2\bin\Debug\net6.0-windows\demo2.runtimeconfig.json
+D:\Semer6\Design Pattern\home\week2\ex2\demo2\bin\Debug\net6.0-windows\demo2.dll
+D:\Semer6\Design Pattern\home\week2\ex2\demo2\bin\Debug\net6.0-windows\demo2.pdb
+D:\Semer6\Design Pattern\home\week2\ex2\demo2\obj\Debug\net6.0-windows\demo2.Form1.resources
+D:\Semer6\Design Pattern\home\week2\ex2\demo2\obj\Debug\net6.0-windows\demo2.csproj.GenerateResource.cache
+D:\Semer6\Design Pattern\home\week2\ex2\demo2\obj\Debug\net6.0-windows\demo2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Semer6\Design Pattern\home\week2\ex2\demo2\obj\Debug\net6.0-windows\demo2.AssemblyInfoInputs.cache
+D:\Semer6\Design Pattern\home\week2\ex2\demo2\obj\Debug\net6.0-windows\demo2.AssemblyInfo.cs
+D:\Semer6\Design Pattern\home\week2\ex2\demo2\obj\Debug\net6.0-windows\demo2.csproj.CoreCompileInputs.cache
+D:\Semer6\Design Pattern\home\week2\ex2\demo2\obj\Debug\net6.0-windows\demo2.dll
+D:\Semer6\Design Pattern\home\week2\ex2\demo2\obj\Debug\net6.0-windows\refint\demo2.dll
+D:\Semer6\Design Pattern\home\week2\ex2\demo2\obj\Debug\net6.0-windows\demo2.pdb
+D:\Semer6\Design Pattern\home\week2\ex2\demo2\obj\Debug\net6.0-windows\demo2.genruntimeconfig.cache
+D:\Semer6\Design Pattern\home\week2\ex2\demo2\obj\Debug\net6.0-windows\ref\demo2.dll
